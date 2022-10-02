@@ -1,4 +1,4 @@
-function startUI(time, text) 
+function sendAlert(time, text) 
 	SendNUIMessage({
 		type = "ui",
 		display = true,
