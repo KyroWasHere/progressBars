@@ -1,4 +1,4 @@
-<b>Updated version of progressBars by kypo</b>
+<b>Alternative version of progressBars</b>
 
 Simply add this to your resource folder and start it :)
 
